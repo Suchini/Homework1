@@ -1,40 +1,39 @@
 # Homework1
-Bandit wargame completion from level 0 to level 16
+Bandit wargame completion from level 0 to level 17
 
 Bandit wargame was played according to the instruction given in the site, http://overthewire.org/wargames/bandit/
 
 
-Bandit Level 0
+**Bandit Level 0**
 ![level0_1](https://cloud.githubusercontent.com/assets/10059386/14378154/4e9fcce2-fd91-11e5-8553-0a8fde267f9f.PNG)
 ![level0_2](https://cloud.githubusercontent.com/assets/10059386/14378155/4ec6d56c-fd91-11e5-86a6-501df64b1a74.PNG)
 
-Bandit Level 0 → Level 1
-
+**Bandit Level 0 → Level 1**
 ![level1_1](https://cloud.githubusercontent.com/assets/10059386/14378160/4ef1524c-fd91-11e5-83d7-fe25d2a61016.PNG)
 ![level1_2](https://cloud.githubusercontent.com/assets/10059386/14378156/4eed29b0-fd91-11e5-92cf-a11ae942d07f.PNG)
 ![level1_3](https://cloud.githubusercontent.com/assets/10059386/14378157/4eed587c-fd91-11e5-968b-abb540fa01a7.PNG)
 
-Bandit Level 1 → Level 2
+**Bandit Level 1 → Level 2**
 ![level2_1](https://cloud.githubusercontent.com/assets/10059386/14378158/4eed500c-fd91-11e5-9080-d7755285559f.PNG)
 ![level2_2](https://cloud.githubusercontent.com/assets/10059386/14378159/4eedc618-fd91-11e5-9f89-fdce3c043444.PNG)
 ![level2_3](https://cloud.githubusercontent.com/assets/10059386/14378161/4ef39282-fd91-11e5-8175-5fb79b06ed41.PNG)
 
-Bandit Level 2 → Level 3
+**Bandit Level 2 → Level 3**
 ![level3_1](https://cloud.githubusercontent.com/assets/10059386/14378163/4f160eb6-fd91-11e5-8271-5e394d6f50b7.PNG)
 ![level3_2](https://cloud.githubusercontent.com/assets/10059386/14378162/4f15f2d2-fd91-11e5-8e48-0a62d5e3d5f6.PNG)
 ![level3_3](https://cloud.githubusercontent.com/assets/10059386/14378164/4f162964-fd91-11e5-9427-a0801a76450f.PNG)
 
-Bandit Level 3 → Level 4
+**Bandit Level 3 → Level 4**
 ![level4_1](https://cloud.githubusercontent.com/assets/10059386/14378165/4f188dd0-fd91-11e5-9c46-d824de999874.PNG)
 ![level4_2](https://cloud.githubusercontent.com/assets/10059386/14378166/4f18b620-fd91-11e5-8ef8-9f33acbf39be.PNG)
 ![level4_3](https://cloud.githubusercontent.com/assets/10059386/14378167/4f225766-fd91-11e5-8c91-26a262276646.PNG)
 
-Bandit Level 4 → Level 5
+**Bandit Level 4 → Level 5**
 ![level5_1](https://cloud.githubusercontent.com/assets/10059386/14378172/4f40b102-fd91-11e5-964f-6606fda59e04.PNG)
 ![level5_2](https://cloud.githubusercontent.com/assets/10059386/14378171/4f4018a0-fd91-11e5-9e61-3445703692ac.PNG)
 ![level5_3](https://cloud.githubusercontent.com/assets/10059386/14378173/4f42efc6-fd91-11e5-84ca-8e3aee776583.PNG)
 
-Bandit Level 5 → Level 6
+**Bandit Level 5 → Level 6**
 ![level6_1](https://cloud.githubusercontent.com/assets/10059386/14378170/4f3fe4d4-fd91-11e5-98d9-eaa01d2c2dcc.PNG)
 ![level6_2](https://cloud.githubusercontent.com/assets/10059386/14378169/4f3fe20e-fd91-11e5-85f0-1c6d0efadb6a.PNG)
 ![level6_3](https://cloud.githubusercontent.com/assets/10059386/14378174/4f50b6ec-fd91-11e5-997e-b770d7bacff1.PNG)
